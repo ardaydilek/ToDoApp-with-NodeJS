@@ -23,7 +23,7 @@
 cd ToDoApp-with-NodeJS
 npm i
 ```
-- [Before start the server make connection with your local mongodb database](https://mongoosejs.com/) (Change <USERNAME>, <PASSWORD>, <DBNAME> fields in app.js)
+- [Before start the server make connection with your local mongodb database](https://mongoosejs.com/) (Change USERNAME, PASSWORD, DBNAME fields in app.js)
 - Then start the server with
 ``` sh
 npm start
