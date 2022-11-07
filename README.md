@@ -31,7 +31,7 @@ npm start
 
 ## Finally
 
-- You need to see the ap at ```http://localhost:3000```
+- Working at ```http://localhost:3000```
 
 
 
